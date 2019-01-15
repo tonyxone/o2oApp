@@ -1,0 +1,17 @@
+com\o2o\entity\UserAwardMap.class
+com\o2o\entity\WechatAuth.class
+com\o2o\entity\Product.class
+com\o2o\entity\ProductImg.class
+com\o2o\entity\LocalAuth.class
+com\o2o\entity\UserShopMap.class
+com\o2o\entity\ShopCategory.class
+com\o2o\entity\Area.class
+com\o2o\entity\Shop.class
+com\o2o\entity\HeadLine.class
+com\o2o\entity\ProductCategory.class
+com\o2o\entity\Award.class
+com\o2o\entity\ShopAuthMap.class
+com\o2o\dao\AreaDao.class
+com\o2o\entity\UserProductMap.class
+com\o2o\entity\PersonInfo.class
+com\o2o\entity\ProductSellDaily.class
